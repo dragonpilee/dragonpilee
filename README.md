@@ -42,7 +42,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 ---
 
 ## 🔍 Featured Repositories:
-- 🎥 [Movie Streaming Website](https://github.com/dragonpilee/movie-streaming-website)  
+- 🎥 [Movie Streaming Website](https://cinegeek-beta.vercel.app/)  
 - 🩺 [Epilepsy Seizure Detection](https://github.com/dragonpilee/epilepsy-detection)  
 
 ---
