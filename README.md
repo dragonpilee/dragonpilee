@@ -12,7 +12,6 @@ Hi, I'm **Alan Cyril Sunny** 👋
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-cyril-33aa8178/)  
 📧 Email: [alan_cyril@yahoo.com](mailto:alan_cyril@yahoo.com)  
-📱 Phone: +91 9846363290  
 
 ---
 
