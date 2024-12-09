@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 Hi, I'm **Alan Cyril Sunny** 👋  
-🎓 MSc Computer Science graduate specialized in **Data Analysis**.  
+🎓 MSc Computer Science graduate specialized in **Data Analysis**,**Big Data**,**Data Mining**.  
 👨‍🏫 Experienced tutor in **Physics, Chemistry, Mathematics, Computer Science**, and more.  
 💻 Developer with expertise in **Java, Python, Kotlin, React, Next.js**, and Android development.  
 🚀 Aspiring to excel in **AI, Machine Learning, Data Science**, and **Big Data**.  
