@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 Hi, I'm **Alan Cyril Sunny** 👋  
-🎓 MSc Computer Science graduate specialized in **Data Analytics**.  
+🎓 MSc Computer Science graduate specialized in **Data Analysis**.  
 👨‍🏫 Experienced tutor in **Physics, Chemistry, Mathematics, Computer Science**, and more.  
 💻 Developer with expertise in **Java, Python, Kotlin, React, Next.js**, and Android development.  
 🚀 Aspiring to excel in **AI, Machine Learning, Data Science**, and **Big Data**.  
@@ -23,6 +23,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 
 ---
 
