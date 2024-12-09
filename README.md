@@ -1,4 +1,6 @@
+# Creating a README file incorporating suggestions for an enhanced GitHub profile
 
+readme_content_finalized = """
 # 💫 About Me:
 Hi, I'm **Alan Cyril Sunny** 👋  
 🎓 MSc Computer Science graduate specialized in **Data Analysis**.  
@@ -29,17 +31,26 @@ Hi, I'm **Alan Cyril Sunny** 👋
 
 ## 📊 GitHub Stats:
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragonpilee&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonpilee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragonpilee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🏆 Accomplishments:
 - 📽 Built a **movie and series streaming website** using Next.js.  
 - 💻 Developed an **Epilepsy Seizure Detection System** using Python for **data analytics and machine learning**.  
+- 🧑‍💻 Maintained multiple repositories showcasing diverse technical expertise.  
 - 🎓 Over 10 years of experience in tutoring computer science and related subjects.  
 - 💡 Currently exploring opportunities in high-demand tech domains for long-term growth.  
 
 ---
 
+## 🔍 Featured Repositories:
+- 🎥 [Movie Streaming Website](https://github.com/dragonpilee/movie-streaming-website)  
+- 🩺 [Epilepsy Seizure Detection](https://github.com/dragonpilee/epilepsy-detection)  
+
+---
+
 ### 📢 Let’s Collaborate!  
 I'm open to working on exciting projects that solve real-world problems. Let's connect and build something amazing together!
+"""
+
