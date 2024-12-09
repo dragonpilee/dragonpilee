@@ -1,6 +1,3 @@
-# Creating a README file incorporating suggestions for an enhanced GitHub profile
-
-readme_content_finalized = """
 # 💫 About Me:
 Hi, I'm **Alan Cyril Sunny** 👋  
 🎓 MSc Computer Science graduate specialized in **Data Analysis**.  
@@ -52,5 +49,5 @@ Hi, I'm **Alan Cyril Sunny** 👋
 
 ### 📢 Let’s Collaborate!  
 I'm open to working on exciting projects that solve real-world problems. Let's connect and build something amazing together!
-"""
+
 
