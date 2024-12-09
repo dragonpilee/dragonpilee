@@ -35,6 +35,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 
 ## 🏆 Accomplishments:
 - 📽 Built a **movie and series streaming website** using Next.js.  
+- 💻 Developed an **Epilepsy Seizure Detection System** using Python for **data analytics and machine learning**.  
 - 🎓 Over 10 years of experience in tutoring computer science and related subjects.  
 - 💡 Currently exploring opportunities in high-demand tech domains for long-term growth.  
 
