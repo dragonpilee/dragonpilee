@@ -4,7 +4,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 🎓 MSc Computer Science graduate with a specialization in **Data Analytics**.  
 🌐 Interdisciplinary academic background with a foundation in **Physics, Chemistry, Mathematics**, and **Computer Science**.  
 👨‍🏫 Over 10 years of experience as a **tutor** helping students understand complex scientific and technical subjects.  
-💻 Developer skilled in **Java, Python, Kotlin, React, Next.js**, and **Dart**.  
+💻 Developer skilled in **Java, Python, Kotlin, React, Next.js**, and more.  
 🧠 Aspiring **AI/ML Architect** with a strong interest in **Computational Chemistry**, **NVIDIA CUDA programming**, and intelligent systems.  
 🚀 Actively seeking opportunities in the tech industry to craft innovative and impactful solutions.  
 ⚙️ Recently completed a **CUDA-based Python project**, optimizing parallel processing for scientific computing workloads.  
@@ -37,12 +37,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 
 ### 📱 Mobile Development  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🎮 Game Development  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
