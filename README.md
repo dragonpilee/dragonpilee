@@ -4,7 +4,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 🎓 MSc Computer Science graduate with a specialization in **Data Analytics**.  
 🌐 Interdisciplinary academic background with a foundation in **Physics, Chemistry, Mathematics**, and **Computer Science**.  
 👨‍🏫 Over 10 years of experience as a **tutor** helping students understand complex scientific and technical subjects.  
-💻 Developer skilled in **Java, Python, Kotlin, React, Next.js**, and **Android development**.  
+💻 Developer skilled in **Java, Python, Kotlin, React, Next.js**, and **Dart**.  
 🧠 Aspiring **AI/ML Architect** with a strong interest in **Computational Chemistry**, **NVIDIA CUDA programming**, and intelligent systems.  
 🚀 Actively seeking opportunities in the tech industry to craft innovative and impactful solutions.  
 ⚙️ Recently completed a **CUDA-based Python project**, optimizing parallel processing for scientific computing workloads.  
@@ -21,11 +21,12 @@ Hi, I'm **Alan Cyril Sunny** 👋
 
 ## 💻 Tech Stack
 
-### 🧠 Data Science / AI / Scientific Computing  
+### 🧠 Data Science / AI / ML / Scientific Computing  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 💻 Web Development  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
