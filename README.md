@@ -26,7 +26,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![C++](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 💻 Web Development  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
