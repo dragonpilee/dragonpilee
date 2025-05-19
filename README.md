@@ -15,7 +15,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-cyril-33aa8178/)  
-📧 Email: [alan_cyril@yahoo.com](mailto:alan_cyril@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-alan_cyril%40yahoo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alan_cyril@yahoo.com)
 
 ---
 
