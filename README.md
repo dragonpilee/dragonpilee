@@ -5,7 +5,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 🎓 Interdisciplinary academic background:  
 &nbsp;&nbsp;&nbsp;&nbsp;• **BSc Chemistry**  
 &nbsp;&nbsp;&nbsp;&nbsp;• **MSc Computer Science**  
-🌱 Strong interdisciplinary foundation in **Physics, Chemistry, Mathematics**, and **Computer Science**  
+🌱 Solid **interdisciplinary** grounding in **Physics, Chemistry, Mathematics**, and **Computer Science**  
 👨‍🏫 10+ years of experience as a **tutor**, simplifying complex STEM concepts  
 💻 Developer proficient in **Java, Python, Kotlin, React, Next.js**, and more  
 🧠 Aspiring **AI/ML Architect** passionate about **Computational Chemistry**, **Scientific AI**, and **NVIDIA CUDA** programming  
