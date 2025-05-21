@@ -13,8 +13,10 @@ Hi, I'm **Alan Cyril Sunny** 👋
 🧬 Strong knowledge in **AI/ML**, including **prompt engineering**, **scientific computing**, and **GPU acceleration**  
 ☁️ Skilled in **Cloud Platforms**: AWS, Azure, Google Cloud  
 🐳 Expert in **Docker**, **Kubernetes**, and managing **networking/configurations**  
-🐧 **Linux user since 2008 (from school days)** — deep experience with **Debian**, **Arch**, and **Unix systems**  
-🔧 Experienced with **FreeBSD**, **NAS setups**, and **Raspberry Pi projects**  
+🐧 **Linux user since 2008 (from school days)** — deep experience with **Debian**, **Arch**, **FreeBSD**, **Unix systems**, and **NAS setups**  
+🔐 Proficient in **Kali Linux**, **Parrot Security OS**, **Qubes OS**, and **Tails OS**  
+🕵️ Skilled in **penetration testing**, **ethical hacking**, and **cybersecurity auditing**  
+🧪 Hobbyist in **Raspberry Pi** and home lab setups  
 🔓 Passionate **Open Source** contributor and advocate  
 🎮 Indie game developer exploring the intersection of **retro gaming** and **modern technology**  
 📚 Lifelong learner and freelance educator aiming to make a global impact through innovation  
@@ -33,7 +35,6 @@ Hi, I'm **Alan Cyril Sunny** 👋
 ### 🧠 AI / ML / Scientific Computing  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 🧠 Prompt Engineering | Scientific ML | Computational Chemistry
 
 ### ☁️ Cloud / DevOps / Infra  
@@ -42,7 +43,12 @@ Hi, I'm **Alan Cyril Sunny** 👋
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-🖥️ Skilled in **FreeBSD**, **Unix**, **NAS**, **Raspberry Pi**, and **home server setups**
+🖥️ Deep experience with **FreeBSD**, **Unix**, **NAS**, **Raspberry Pi**, **Qubes OS**, **Kali Linux**, **Tails**, and **Parrot Security OS**
+
+### 🔐 Security / Pentesting  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Qubes OS](https://img.shields.io/badge/Qubes%20OS-333366?style=for-the-badge&logo=qubesos&logoColor=white)  
+🕵️ Ethical Hacking | Penetration Testing | Threat Modeling | Security Auditing
 
 ### 🌐 Web Development  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
@@ -56,8 +62,8 @@ Hi, I'm **Alan Cyril Sunny** 👋
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🎮 Game Development  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)  
+🎮 Retro-style game development with **Pygame**, **OpenGL**, and **NumPy**
 
 ---
 
@@ -76,8 +82,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 - 🧬 Designed a **Genetic Disorder Prediction Model** for **asthma, epilepsy**, and more using **GPU acceleration**  
 - 🔬 Exploring **AI models for scientific and healthcare applications**  
 - 🎮 Developed **Star Defenders**, a **retro-style 2D space shooter** using **Python, Pygame, OpenGL, and NumPy**  
-- 🐧 Managed complex **networking/configurations** across **Linux**, **FreeBSD**, and **NAS servers**  
-- 📘 Maintained 20+ repositories covering full-stack development, AI, and analytics  
+- 🐧 Managed complex **networking/configurations** across **Linux**, **FreeBSD**, **NAS**, and **cybersecurity environments**  
 - 👨‍🏫 Mentored hundreds of students with an emphasis on **clarity, creativity, and results**  
 - 🎯 Dedicated to becoming a **future-ready AI/ML Architect** solving real-world challenges
 
@@ -96,5 +101,5 @@ Hi, I'm **Alan Cyril Sunny** 👋
 
 ### 🤝 Let's Collaborate!
 
-I’m open to impactful collaborations that integrate **technology, science, and AI**.  
+I’m open to impactful collaborations that integrate **technology, science, AI**, and **cybersecurity**.  
 Let’s innovate together and create something meaningful!
