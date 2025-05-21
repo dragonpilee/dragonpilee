@@ -42,7 +42,6 @@ Hi, I'm **Alan Cyril Sunny** 👋
 ### 🎮 Game Development  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)  
-![Pygame](https://img.shields.io/badge/Pygame-1E1E1E?style=for-the-badge&logo=pygame&logoColor=white)
 
 ---
 
