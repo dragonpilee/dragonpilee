@@ -1,3 +1,4 @@
+
 # 💫 About Me
 
 Hi, I'm **Alan Cyril Sunny** 👋  
@@ -8,6 +9,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 🧠 Aspiring **AI/ML Architect** passionate about **Computational Chemistry**, **Scientific AI**, and **NVIDIA CUDA** programming  
 🚀 Building real-world applications that merge **science and technology**  
 ⚡ Recently completed multiple **GPU-accelerated AI projects** focused on healthcare and scientific computing  
+🎮 Indie game developer exploring the intersection of **retro gaming** and **modern technology**  
 📚 Lifelong learner and freelance educator aiming to make a global impact through innovation  
 
 ---
@@ -37,6 +39,11 @@ Hi, I'm **Alan Cyril Sunny** 👋
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
+### 🎮 Game Development  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)  
+![Pygame](https://img.shields.io/badge/Pygame-1E1E1E?style=for-the-badge&logo=pygame&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
@@ -53,6 +60,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 - ⚙️ Built a **Hybrid CPU-GPU Image Classification Pipeline** with **CUDA + Python**  
 - 🧬 Designed a **Genetic Disorder Prediction Model** for **asthma, epilepsy**, and more using **GPU acceleration**  
 - 🔬 Exploring **AI models for scientific and healthcare applications**  
+- 🎮 Developed **Star Defenders**, a **retro-style 2D space shooter** using **Python, Pygame, OpenGL, and NumPy**  
 - 📘 Maintained 20+ repositories covering full-stack development, AI, and analytics  
 - 👨‍🏫 Mentored hundreds of students with an emphasis on **clarity, creativity, and results**  
 - 🎯 Dedicated to becoming a **future-ready AI/ML Architect** solving real-world challenges
@@ -64,7 +72,9 @@ Hi, I'm **Alan Cyril Sunny** 👋
 - 🎥 [Movie Streaming Website](https://cinegeek-beta.vercel.app/)  
 - 🧠 [Epileptic Seizure Detection](https://github.com/dragonpilee/Epileptic-Seizure-Detection-System)  
 - ⚙️ [Hybrid GPU Image Classification (CUDA + Python)](https://github.com/dragonpilee/Hybrid-GPU-Image-Classification-Pipeline)  
-- 🧬 [Genetic Disorder Prediction Model (GPU Accelerated)](https://github.com/dragonpilee/Genetic-Disorder-Prediction-Model-Trainer-GPU-Accelerated)
+- 🧬 [Genetic Disorder Prediction Model (GPU Accelerated)](https://github.com/dragonpilee/Genetic-Disorder-Prediction-Model-Trainer-GPU-Accelerated)  
+- 🌌 [Star Defenders - 2D Space Shooter](https://github.com/dragonpilee/Star-Defenders)  
+  > A retro-style 2D space shooter built with **Pygame**, **OpenGL**, and **NumPy**, inspired by arcade classics like Galaxian. Features procedural starfields, enemy waves, stereo effects, and GPU-accelerated 720p rendering.
 
 ---
 
