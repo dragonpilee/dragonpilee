@@ -10,7 +10,11 @@ Hi, I'm **Alan Cyril Sunny** 👋
 💻 Developer proficient in **Java, Python, Kotlin, React, Next.js**, and more  
 🧠 Aspiring **AI/ML Architect** passionate about **Computational Chemistry**, **Scientific AI**, and **NVIDIA CUDA** programming  
 🚀 Building real-world applications that merge **science and technology**  
-⚡ Recently completed multiple **GPU-accelerated AI projects** focused on healthcare and scientific computing  
+🧬 Strong knowledge in **AI/ML**, including **prompt engineering**, **scientific computing**, and **GPU acceleration**  
+☁️ Skilled in **Cloud Platforms**: AWS, Azure, Google Cloud  
+🐳 Expert in **Docker**, **Kubernetes**, and managing **networking/configurations**  
+🐧 **Linux user since 2008 (from school days)** — deep experience with **Debian** and **Arch** derivatives  
+🔓 Passionate **Open Source** contributor and advocate  
 🎮 Indie game developer exploring the intersection of **retro gaming** and **modern technology**  
 📚 Lifelong learner and freelance educator aiming to make a global impact through innovation  
 
@@ -28,7 +32,15 @@ Hi, I'm **Alan Cyril Sunny** 👋
 ### 🧠 AI / ML / Scientific Computing  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+🧠 Prompt Engineering | Scientific ML | Computational Chemistry
+
+### ☁️ Cloud / DevOps / Infra  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🌐 Web Development  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
@@ -62,6 +74,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 - 🧬 Designed a **Genetic Disorder Prediction Model** for **asthma, epilepsy**, and more using **GPU acceleration**  
 - 🔬 Exploring **AI models for scientific and healthcare applications**  
 - 🎮 Developed **Star Defenders**, a **retro-style 2D space shooter** using **Python, Pygame, OpenGL, and NumPy**  
+- 🐧 Managed complex **networking/configurations** across Linux servers and cloud platforms  
 - 📘 Maintained 20+ repositories covering full-stack development, AI, and analytics  
 - 👨‍🏫 Mentored hundreds of students with an emphasis on **clarity, creativity, and results**  
 - 🎯 Dedicated to becoming a **future-ready AI/ML Architect** solving real-world challenges
@@ -81,5 +94,5 @@ Hi, I'm **Alan Cyril Sunny** 👋
 
 ### 🤝 Let's Collaborate!
 
-I'm open to impactful collaborations that integrate **technology, science, and AI**.  
+I’m open to impactful collaborations that integrate **technology, science, and AI**.  
 Let’s innovate together and create something meaningful!
