@@ -11,6 +11,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 🧠 Aspiring **AI/ML Architect** passionate about **Computational Chemistry**, **Scientific AI**, and **NVIDIA CUDA** programming  
 🚀 Building real-world applications that merge **science and technology**  
 ⚡ Recently completed multiple **GPU-accelerated AI projects** focused on healthcare and scientific computing  
+🤖 Recently built a responsive, cyberpunk-themed AI chatbot called **Nyx** powered by Google Gemini API  
 🎮 Indie game developer exploring the intersection of **retro gaming** and **modern technology**  
 🖥️ Linux user since **2008**, expert in **Debian**, **Arch**, and **Unix-based systems** (FreeBSD, Raspberry Pi, NAS, etc.)  
 🔐 Skilled in **Kali Linux**, **Parrot OS**, **Qubes**, **Tails**, and **penetration testing**  
@@ -82,6 +83,7 @@ Hi, I'm **Alan Cyril Sunny** 👋
 - 🧠 Developed an **Epileptic Seizure Detection System** using **Python**  
 - ⚙️ Built a **Hybrid CPU-GPU Image Classification Pipeline** with **CUDA + Python**  
 - 🧬 Designed a **Genetic Disorder Prediction Model** for **asthma, epilepsy**, and more using **GPU acceleration**  
+- 🤖 Recently built a **responsive, cyberpunk-themed AI chatbot** called **Nyx** powered by Google Gemini API  
 - 🔬 Exploring **AI models for scientific and healthcare applications**  
 - 🎮 Developed **Star Defenders**, a **retro-style 2D space shooter** using **Python, Pygame, OpenGL, and NumPy**  
 - 📘 Maintained 20+ repositories covering full-stack development, AI, and analytics  
@@ -96,19 +98,14 @@ Hi, I'm **Alan Cyril Sunny** 👋
 - 🧠 [Epileptic Seizure Detection](https://github.com/dragonpilee/Epileptic-Seizure-Detection-System)  
 - ⚙️ [Hybrid GPU Image Classification (CUDA + Python)](https://github.com/dragonpilee/Hybrid-GPU-Image-Classification-Pipeline)  
 - 🧬 [Genetic Disorder Prediction Model (GPU Accelerated)](https://github.com/dragonpilee/Genetic-Disorder-Prediction-Model-Trainer-GPU-Accelerated)  
+- 🤖 [Nyx - Cyberpunk AI Chatbot](https://github.com/dragonpilee/NYX---Digital-Interface)  
 - 🌌 [Star Defenders - 2D Space Shooter](https://github.com/dragonpilee/Star-Defenders)  
-  > A retro-style 2D space shooter built with **Pygame**, **OpenGL**, and **NumPy**, inspired by arcade classics like Galaxian. Features procedural starfields, enemy waves, stereo effects, and GPU-accelerated 720p rendering.
 
 ---
 
-## 🚀 Latest Project: Nyx - Digital Interface (Cyberpunk AI Chatbot)
+### 🤝 Let's Collaborate!
 
-[![React](https://img.shields.io/badge/Frontend-React-61dafb)](https://reactjs.org/)  
-[![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue)](https://www.typescriptlang.org/)  
-[![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38bdf8)](https://tailwindcss.com/)  
-[![Google Gemini API](https://img.shields.io/badge/AI-Gemini%20API-yellow)](https://developers.google.com/ai)  
-[![MIT License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)  
+I'm open to impactful collaborations that integrate **technology, science, and AI**.  
+Let’s innovate together and create something meaningful!
 
-**Nyx** is a cyberpunk-themed AI chatbot built with React, TypeScript, and Tailwind CSS, powered by the Google Gemini API. It features real-time streaming responses and a sleek, futuristic UI for immersive conversations.
-
-🔗 Check it out here: [NYX - Digital Interface](https://github.com/dragonpilee/NYX---Digital-Interface)
+⭐ If you like my work, feel free to give a star on my repos — it really motivates me!
