@@ -101,7 +101,14 @@ Hi, I'm **Alan Cyril Sunny** 👋
 
 ---
 
-### 🤝 Let's Collaborate!
+## 🚀 Latest Project: Nyx - Digital Interface (Cyberpunk AI Chatbot)
 
-I'm open to impactful collaborations that integrate **technology, science, and AI**.  
-Let’s innovate together and create something meaningful!
+[![React](https://img.shields.io/badge/Frontend-React-61dafb)](https://reactjs.org/)  
+[![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue)](https://www.typescriptlang.org/)  
+[![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38bdf8)](https://tailwindcss.com/)  
+[![Google Gemini API](https://img.shields.io/badge/AI-Gemini%20API-yellow)](https://developers.google.com/ai)  
+[![MIT License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)  
+
+**Nyx** is a cyberpunk-themed AI chatbot built with React, TypeScript, and Tailwind CSS, powered by the Google Gemini API. It features real-time streaming responses and a sleek, futuristic UI for immersive conversations.
+
+🔗 Check it out here: [NYX - Digital Interface](https://github.com/dragonpilee/NYX---Digital-Interface)
