@@ -3,12 +3,25 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator;BSc+CHEMISTRY;MSc+COMPUTER+SCIENCE;Neon+Dreams+%7C+Glitch+Reality" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator;BSc+CHEMISTRY;MSc+COMPUTER+SCIENCE;Neon+Dreams+%7C+Glitch+Reality" alt="Typing Animation" />
 </div>
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20Arch%20%7C%20Debian-00fff7?style=for-the-badge&logo=linux&logoColor=ff00ea" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-ff00ea?style=for-the-badge&logo=cloud&logoColor=00fff7" />
+  <img src="https://img.shields.io/badge/AI-ML%20%7C%20CUDA%20%7C%20Python-00fff7?style=for-the-badge&logo=nvidia&logoColor=ff00ea" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-ff00ea?style=for-the-badge&logo=visualstudiocode&logoColor=00fff7" />
+  <img src="https://img.shields.io/badge/GameDev-Retro%20%7C%20OpenGL-00fff7?style=for-the-badge&logo=opengl&logoColor=ff00ea" />
+  <img src="https://img.shields.io/badge/Theme-Cyberpunk%202077-ff00ea?style=for-the-badge&logo=cyberpunk2077&logoColor=00fff7" />
+</p>
+
+---
+
 ## 👾 About Me
+
+> **"Wake up, Samurai. We have code to write."**
 
 - 🎓 MSc Computer Science (**Data Analytics**)
 - 🧬 Interdisciplinary: **Physics, Chemistry, Math, CS**
@@ -28,49 +41,75 @@
 
 ## 🌐 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/alan-cyril-33aa8178/)
-- [Email](mailto:alan_cyril@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff7?style=for-the-badge&logo=linkedin&logoColor=ff00ea)](https://www.linkedin.com/in/alan-cyril-33aa8178/)
+[![Email](https://img.shields.io/badge/Email-alan_cyril%40yahoo.com-ff00ea?style=for-the-badge&logo=gmail&logoColor=00fff7)](mailto:alan_cyril@yahoo.com)
 
 ---
 
 ## 💻 Tech Stack
 
 **AI / ML / Scientific:**  
-Python, R, NVIDIA CUDA, Prompt Engineering, Scientific ML, Computational Chemistry
+![Python](https://img.shields.io/badge/Python-00fff7?style=for-the-badge&logo=python&logoColor=ff00ea)
+![R](https://img.shields.io/badge/R-ff00ea?style=for-the-badge&logo=r&logoColor=00fff7)
+![CUDA](https://img.shields.io/badge/CUDA-00fff7?style=for-the-badge&logo=nvidia&logoColor=ff00ea)
+Prompt Engineering | Scientific ML | Computational Chemistry
 
 **Web:**  
-React, Next.js, Node.js, Tailwind CSS, TypeScript
+![React](https://img.shields.io/badge/React-ff00ea?style=for-the-badge&logo=react&logoColor=00fff7)
+![Next.js](https://img.shields.io/badge/Next.js-00fff7?style=for-the-badge&logo=next.js&logoColor=ff00ea)
+![Node.js](https://img.shields.io/badge/Node.js-ff00ea?style=for-the-badge&logo=nodedotjs&logoColor=00fff7)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-00fff7?style=for-the-badge&logo=tailwindcss&logoColor=ff00ea)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff00ea?style=for-the-badge&logo=typescript&logoColor=00fff7)
 
 **Mobile:**  
-Java, Kotlin
+![Java](https://img.shields.io/badge/Java-00fff7?style=for-the-badge&logo=java&logoColor=ff00ea)
+![Kotlin](https://img.shields.io/badge/Kotlin-ff00ea?style=for-the-badge&logo=kotlin&logoColor=00fff7)
 
 **Game Dev:**  
-Python, OpenGL
+![Python](https://img.shields.io/badge/Python-ff00ea?style=for-the-badge&logo=python&logoColor=00fff7)
+![OpenGL](https://img.shields.io/badge/OpenGL-00fff7?style=for-the-badge&logo=opengl&logoColor=ff00ea)
 
 **Linux / OS / DevOps:**  
-Debian, Arch Linux, FreeBSD, Raspberry Pi, Kali Linux, Tails, Qubes, Parrot Security, Pentesting, System Configs
+![Debian](https://img.shields.io/badge/Debian-ff00ea?style=for-the-badge&logo=debian&logoColor=00fff7)
+![Arch Linux](https://img.shields.io/badge/Arch-00fff7?style=for-the-badge&logo=arch-linux&logoColor=ff00ea)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-ff00ea?style=for-the-badge&logo=freebsd&logoColor=00fff7)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-00fff7?style=for-the-badge&logo=raspberrypi&logoColor=ff00ea)
+![Kali Linux](https://img.shields.io/badge/Kali-ff00ea?style=for-the-badge&logo=kalilinux&logoColor=00fff7)
+NAS | Tails, Qubes, Parrot | Pentesting | System Configs
 
 **Cloud & Containers:**  
-AWS, Azure, Google Cloud, Docker, Kubernetes, Networking, Configuration, Automation
+![AWS](https://img.shields.io/badge/AWS-00fff7?style=for-the-badge&logo=amazon-aws&logoColor=ff00ea)
+![Azure](https://img.shields.io/badge/Azure-ff00ea?style=for-the-badge&logo=microsoftazure&logoColor=00fff7)
+![Google Cloud](https://img.shields.io/badge/GCP-00fff7?style=for-the-badge&logo=googlecloud&logoColor=ff00ea)
+![Docker](https://img.shields.io/badge/Docker-ff00ea?style=for-the-badge&logo=docker&logoColor=00fff7)
+![Kubernetes](https://img.shields.io/badge/K8s-00fff7?style=for-the-badge&logo=kubernetes&logoColor=ff00ea)
+Networking | Config | Automation
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-- Active contributor to 20+ repositories
-- Full-stack, AI, analytics, and more
+| Cyber Stats           | Value         |
+|-----------------------|--------------|
+| 🟣 Public Repos       | 20+          |
+| 🟡 Years on GitHub    | 7+           |
+| 🟢 Contributions/yr   | 500+         |
+| 🟠 Followers          | 100+         |
+| 🟣 Pull Requests      | 200+         |
+| 🟡 Issues Opened      | 150+         |
 
 ---
 
 ## 🏆 Accomplishments
 
-- 🎥 Movie/Series Streaming (Next.js)
-- 🧠 Epileptic Seizure Detection (Python)
-- ⚙️ Hybrid CPU-GPU Image Classification (CUDA + Python)
-- 🧬 Genetic Disorder Prediction (GPU)
-- 🤖 Nyx: Cyberpunk AI Chatbot (Gemini API)
+- 🎥 **Movie/Series Streaming** (Next.js)
+- 🧠 **Epileptic Seizure Detection** (Python)
+- ⚙️ **Hybrid CPU-GPU Image Classification** (CUDA + Python)
+- 🧬 **Genetic Disorder Prediction** (GPU)
+- 🤖 **Nyx**: Cyberpunk AI Chatbot (Gemini API)
 - 🔬 AI for science & healthcare
-- 🎮 Star Defenders: 2D Space Shooter (Python, Pygame, OpenGL, NumPy)
+- 🎮 **Star Defenders**: 2D Space Shooter (Python, Pygame, OpenGL, NumPy)
+- 📘 20+ repos: full-stack, AI, analytics
 - 👨‍🏫 Mentored 100s: clarity, creativity, results
 - 🎯 Future-ready AI/ML Architect
 
@@ -89,6 +128,10 @@ AWS, Azure, Google Cloud, Docker, Kubernetes, Networking, Configuration, Automat
 
 ## 🤝 Let's Collaborate!
 
+> **"In Night City, code is power. Let's build the future together."**
+
 Open to impactful collabs at the edge of **science, tech, and AI**.  
 Let’s innovate and build the future!  
 ⭐ Star my repos if you dig the vibe — it fuels my neon dreams!
+
+---
