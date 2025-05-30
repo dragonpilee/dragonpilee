@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator;BSc+CHEMISTRY;MSc+COMPUTER+SCIENCE;Neon+Dreams+%7C+Glitch+Reality" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator;BSc+CHEMISTRY;MSc+COMPUTER+SCIENCE+(DATA+ANALYTICS);Interdisciplinary+Developer;Neon+Dreams+%7C+Glitch+Reality" alt="Typing Animation" />
 </div>
 
 ---
@@ -108,7 +108,7 @@ Networking | Config | Automation
 - 🤖 **Nyx**: Cyberpunk AI Chatbot (Gemini API)
 - 🔬 AI for science & healthcare
 - 🎮 **Star Defenders**: 2D Space Shooter (Python, Pygame, OpenGL, NumPy)
-- 📘 20+ repos: full-stack, AI, analytics
+- 📘 40+ repos: full-stack, AI, analytics
 - 👨‍🏫 Mentored 100s: clarity, creativity, results
 - 🎯 Future-ready AI/ML Architect
 
