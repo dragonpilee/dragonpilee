@@ -15,9 +15,6 @@
   <img src="https://img.shields.io/badge/Editor-VS%20Code-ff00ea?style=for-the-badge&logo=visualstudiocode&logoColor=00fff7" />
   <img src="https://img.shields.io/badge/GameDev-Retro%20%7C%20OpenGL-00fff7?style=for-the-badge&logo=opengl&logoColor=ff00ea" />
   <img src="https://img.shields.io/badge/CUDA-Developer-ff00ea?style=for-the-badge&logo=nvidia&logoColor=00fff7" />
-  <img src="https://img.shields.io/badge/Linux-Debian%20%7C%20Arch%20%7C%20Fedora%20%7C%20FreeBSD-ff00ea?style=for-the-badge&logo=linux&logoColor=00fff7" />
-  <img src="https://img.shields.io/badge/Security-Kali%20%7C%20Parrot%20%7C%20Qubes-00fff7?style=for-the-badge&logo=security&logoColor=ff00ea" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20K8s-ff00ea?style=for-the-badge&logo=docker&logoColor=00fff7" />
 </p>
 
 ---
