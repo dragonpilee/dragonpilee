@@ -69,6 +69,7 @@ Prompt Engineering | Scientific ML | Computational Chemistry
 **Game Dev:**  
 ![Python](https://img.shields.io/badge/Python-ff00ea?style=for-the-badge&logo=python&logoColor=00fff7)
 ![OpenGL](https://img.shields.io/badge/OpenGL-00fff7?style=for-the-badge&logo=opengl&logoColor=ff00ea)
+![Vulkan](https://img.shields.io/badge/Vulkan-ff00ea?style=for-the-badge&logo=vulkan&logoColor=00fff7)
 
 **Linux / OS / DevOps:**  
 ![Debian](https://img.shields.io/badge/Debian-ff00ea?style=for-the-badge&logo=debian&logoColor=00fff7)
