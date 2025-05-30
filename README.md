@@ -1,5 +1,4 @@
 <!-- Cyberpunk Banner (replace with your own image if desired) -->
-<img src="https://i.imgur.com/2yYayZk.gif" alt="Cyberpunk Banner" width="100%" />
 
 <h1 align="center" style="color:#00fff7; text-shadow: 0 0 10px #00fff7, 0 0 20px #ff00ea;">💫 Alan Cyril Sunny</h1>
 
