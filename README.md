@@ -1,6 +1,9 @@
 <!-- Cyberpunk Banner (replace with your own image if desired) -->
+<!-- Try a glitch or neon banner for extra effect! -->
 
-<h1 align="center" style="color:#00fff7; text-shadow: 0 0 10px #00fff7, 0 0 20px #ff00ea;">💫 Alan Cyril Sunny</h1>
+<h1 align="center" style="color:#00fff7; text-shadow: 0 0 10px #00fff7, 0 0 20px #ff00ea; letter-spacing: 2px;">
+  💫 Alan Cyril Sunny
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Architect-Cyberpunk%20Mode-ff00ea?style=for-the-badge&logo=nvidia&logoColor=00fff7" />
@@ -10,12 +13,18 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator;Neon+Dreams+%7C+Glitch+Reality" alt="Typing SVG" />
 </div>
 
 ---
 
 ## <span style="color:#ff00ea;">👾 About Me</span>
+
+```
+░█▀█░█▀█░█▀█░█▀▀░█▀█░█░█░█▀▀
+░█▀▀░█▀█░█░█░█▀▀░█░█░█░█░█▀▀
+░▀░░░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀▀▀
+```
 
 - 🎓 MSc Computer Science (**Data Analytics**)
 - 🧬 Interdisciplinary: **Physics, Chemistry, Math, CS**
@@ -116,10 +125,22 @@
 
 ## <span style="color:#00fff7;">🤝 Let's Collaborate!</span>
 
-Open to impactful collabs at the edge of **science, tech, and AI**.  
-Let’s innovate and build the future!  
-⭐ Star my repos if you dig the vibe — it fuels my neon dreams!
+> <span style="color:#ff00ea; font-family:monospace; font-size:1.1em;">
+> Open to impactful collabs at the edge of <b>science, tech, and AI</b>.<br>
+> Let’s innovate and build the future!<br>
+> ⭐ Star my repos if you dig the vibe — it fuels my neon dreams!
+> </span>
 
 ---
 
 <!-- Cyberpunk Glitch Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/8Km9tLL.gif" alt="Cyberpunk Glitch Divider" width="100%" />
+</div>
+
+<!-- Neon animated sparkles for extra life -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/assets/master/sparkle.gif" width="120" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/assets/master/sparkle.gif" width="120" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/assets/master/sparkle.gif" width="120" />
+</div>
