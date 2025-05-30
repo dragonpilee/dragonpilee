@@ -123,4 +123,3 @@ Let’s innovate and build the future!
 ---
 
 <!-- Cyberpunk Glitch Divider -->
-<img src="https://i.imgur.com/8Km9tLL.gif" alt="Cyberpunk Divider" width="100%" />
