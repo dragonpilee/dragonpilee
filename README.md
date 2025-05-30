@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/Editor-VS%20Code-ff00ea?style=for-the-badge&logo=visualstudiocode&logoColor=00fff7" />
   <img src="https://img.shields.io/badge/GameDev-Retro%20%7C%20OpenGL-00fff7?style=for-the-badge&logo=opengl&logoColor=ff00ea" />
   <img src="https://img.shields.io/badge/CUDA-Developer-ff00ea?style=for-the-badge&logo=nvidia&logoColor=00fff7" />
+  <img src="https://img.shields.io/badge/Linux-Debian%20%7C%20Arch%20%7C%20Fedora%20%7C%20FreeBSD-ff00ea?style=for-the-badge&logo=linux&logoColor=00fff7" />
+  <img src="https://img.shields.io/badge/Security-Kali%20%7C%20Parrot%20%7C%20Qubes-00fff7?style=for-the-badge&logo=security&logoColor=ff00ea" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20K8s-ff00ea?style=for-the-badge&logo=docker&logoColor=00fff7" />
 </p>
 
 ---
@@ -25,7 +28,7 @@
 
 - 🎓 MSc Computer Science (**Data Analytics**)
 - 🧬 Interdisciplinary: **Physics, Chemistry, Math, CS**
-- 👨‍🏫 10+ yrs simplifying STEM as a **tutor**
+- 👨‍🏫 11+ yrs simplifying STEM as a **tutor**
 - 💻 Dev: `Java`, `Python`, `Kotlin`, `React`, `Next.js`
 - 🤖 Building **AI/ML** for science & tech
 - ⚡ GPU-accelerated AI for healthcare/science
@@ -43,6 +46,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff7?style=for-the-badge&logo=linkedin&logoColor=ff00ea)](https://www.linkedin.com/in/alan-cyril-33aa8178/)
 [![Email](https://img.shields.io/badge/Email-alan_cyril%40yahoo.com-ff00ea?style=for-the-badge&logo=gmail&logoColor=00fff7)](mailto:alan_cyril@yahoo.com)
+[![Website](https://img.shields.io/badge/Portfolio-00fff7?style=for-the-badge&logo=about-dot-me&logoColor=ff00ea)](https://github.com/dragonpilee)
 
 ---
 
@@ -73,6 +77,7 @@ Prompt Engineering | Scientific ML | Computational Chemistry
 ![Debian](https://img.shields.io/badge/Debian-ff00ea?style=for-the-badge&logo=debian&logoColor=00fff7)
 ![Arch Linux](https://img.shields.io/badge/Arch-00fff7?style=for-the-badge&logo=arch-linux&logoColor=ff00ea)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-ff00ea?style=for-the-badge&logo=freebsd&logoColor=00fff7)
+![Fedora](https://img.shields.io/badge/Fedora-00fff7?style=for-the-badge&logo=fedora&logoColor=ff00ea)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-00fff7?style=for-the-badge&logo=raspberrypi&logoColor=ff00ea)
 ![Kali Linux](https://img.shields.io/badge/Kali-ff00ea?style=for-the-badge&logo=kalilinux&logoColor=00fff7)
 NAS | Tails, Qubes, Parrot | Pentesting | System Configs
