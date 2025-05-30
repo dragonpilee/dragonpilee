@@ -9,7 +9,10 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20Arch%20%7C%20Debian%20%7C%20FreeBSD-00fff7?style=for-the-badge&logo=linux&logoColor=ff00ea" />
+  <img src="https://img.shields.io/badge/OS-FreeBSD-00fff7?style=for-the-badge&logo=freebsd&logoColor=ff00ea" />
+  <img src="https://img.shields.io/badge/OS-Debian-ff00ea?style=for-the-badge&logo=debian&logoColor=00fff7" />
+  <img src="https://img.shields.io/badge/OS-Arch-00fff7?style=for-the-badge&logo=arch-linux&logoColor=ff00ea" />
+  <img src="https://img.shields.io/badge/OS-Fedora-ff00ea?style=for-the-badge&logo=fedora&logoColor=00fff7" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-ff00ea?style=for-the-badge&logo=cloud&logoColor=00fff7" />
   <img src="https://img.shields.io/badge/AI-ML%20%7C%20CUDA%20%7C%20Python-00fff7?style=for-the-badge&logo=nvidia&logoColor=ff00ea" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-ff00ea?style=for-the-badge&logo=visualstudiocode&logoColor=00fff7" />
