@@ -87,16 +87,13 @@ Networking | Config | Automation
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-| Cyber Stats           | Value         |
-|-----------------------|--------------|
-| 🟣 Public Repos       | 20+          |
-| 🟡 Years on GitHub    | 7+           |
-| 🟢 Contributions/yr   | 500+         |
-| 🟠 Followers          | 100+         |
-| 🟣 Pull Requests      | 200+         |
-| 🟡 Issues Opened      | 150+         |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dragonpilee&show_icons=true&theme=radical&hide_border=true&icon_color=00fff7&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" alt="Alan's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonpilee&layout=compact&theme=radical&hide_border=true&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" alt="Top Languages" />
+</p>
 
 ---
 
