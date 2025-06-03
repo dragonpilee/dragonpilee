@@ -90,6 +90,16 @@ Networking | Config | Automation
 
 ---
 
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dragonpilee&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophy" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
