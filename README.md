@@ -93,9 +93,7 @@ Networking | Config | Automation
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dragonpilee&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=dragonpilee&theme=onedark" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -107,7 +105,7 @@ Networking | Config | Automation
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonpilee&layout=compact&theme=radical&hide_border=true&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" alt="Top Languages" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" alt="GitHub Streak" />
 </p>
 
 ---
