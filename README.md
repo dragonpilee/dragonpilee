@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dragonpilee&theme=onedark&no-bg=true&no-frame=true&column=7&exclude=PullRequest" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dragonpilee&theme=onedark&no-bg=true&no-frame=true&column=7&exclude=Issues,PullRequest" alt="GitHub Trophy" />
 </p>
 
 ---
