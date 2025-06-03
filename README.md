@@ -104,8 +104,6 @@ Networking | Config | Automation
   <img src="https://github-readme-stats.vercel.app/api?username=dragonpilee&show_icons=true&theme=radical&hide_border=true&icon_color=00fff7&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" alt="Alan's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonpilee&layout=compact&theme=radical&hide_border=true&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" alt="Top Languages" />
-  <br>
-  <img src="https://img.shields.io/github/commit-activity/m/dragonpilee?color=ff00ea&label=commit%20activity&logo=github&style=for-the-badge" alt="Commit Activity" />
 </p>
 
 ---
