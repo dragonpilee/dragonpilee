@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator;BSc+CHEMISTRY+(PHYSICS+%26+MATHEMATICS);MSc+COMPUTER+SCIENCE+(DATA+ANALYTICS);Interdisciplinary+Developer;Neon+Dreams+%7C+Glitch+Reality" alt="Typing Animation" />
 </div>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dragonpilee&label=Profile%20views&color=0e75b6&style=flat" alt="dragonpilee" />
+</p>
+
 ---
 
 <p align="center">
