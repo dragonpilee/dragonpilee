@@ -104,11 +104,6 @@ Networking | Config | Automation
   <img src="https://github-readme-stats.vercel.app/api?username=dragonpilee&show_icons=true&theme=radical&hide_border=true&icon_color=00fff7&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" alt="Alan's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonpilee&layout=compact&theme=radical&hide_border=true&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" alt="Top Languages" />
-  <br>
-  <!--
-  <img src="https://streak-stats.demolab.com?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" alt="GitHub Streak" />
-  -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" alt="GitHub Streak" />
 </p>
 
 ---
@@ -148,8 +143,3 @@ Let’s innovate and build the future!
 ⭐ Star my repos if you dig the vibe — it fuels my neon dreams!
 
 ---
-
-<!--
-  If the GitHub streak image above does not work, try the following alternative:
-  <img src="https://streak-stats.demolab.com?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" alt="GitHub Streak" />
--->
