@@ -104,6 +104,8 @@ Networking | Config | Automation
   <img src="https://github-readme-stats.vercel.app/api?username=dragonpilee&show_icons=true&theme=radical&hide_border=true&icon_color=00fff7&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" alt="Alan's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonpilee&layout=compact&theme=radical&hide_border=true&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" alt="GitHub Streak" />
 </p>
 
 ---
@@ -140,6 +142,4 @@ Networking | Config | Automation
 
 Open to impactful collabs at the edge of **science, tech, and AI**.  
 Let’s innovate and build the future!  
-⭐ Star my repos if you dig the vibe — it fuels my neon dreams!
-
----
+⭐ Star my repos if you dig the vibe — it fuels my neon
