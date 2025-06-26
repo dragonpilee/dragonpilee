@@ -105,7 +105,7 @@ Networking | Config | Automation
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonpilee&layout=compact&theme=radical&hide_border=true&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" alt="GitHub Streak" />
+  <img src="https://camo.githubusercontent.com/9462d0e8a61028905986a5558879c9ded284d238776abaf8c2c0a9331aa1b44f/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d6d616865736836373833267468656d653d6461726b26686964655f626f726465723d74727565" alt="GitHub Streak" />
 </p>
 
 ---
