@@ -1,9 +1,11 @@
-<!-- Neon Cyberpunk README for Alan Cyril Sunny -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ea,100:00fff7&height=120&section=header&text=Alan%20Cyril%20Sunny&fontSize=40&fontAlignY=40&desc=AI%20%2F%20ML%20Architect%20%7C%20Cyberpunk%20Dev&descAlignY=60&animation=twinkling" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator;BSc+CHEMISTRY+(PHYSICS+%26+MATHEMATICS);MSc+COMPUTER+SCIENCE+(DATA+ANALYTICS);Interdisciplinary+Developer;Neon+Dreams+%7C+Glitch+Reality" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator;BSc+CHEMISTRY+(PHYSICS+%26+MATHEMATICS);MSc+COMPUTER+SCIENCE+(DATA+ANALYTICS);Interdisciplinary+Developer;Neon+Dreams+%7C+Glitch+Reality;Welcome+to+the+Neon+Matrix!" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="60" />
 </p>
 
 <p align="center">
@@ -27,17 +29,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ea,100:00fff7&height=60&section=footer" />
 
-<!-- Glitch SVG Header -->
+<!-- Animated glitch SVG header -->
 <p align="center">
-  <svg width="400" height="60">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="40" fill="#ff00ea" style="filter:url(#glitch);font-family:monospace;">
-      CYBERPUNK DEV
-    </text>
-    <filter id="glitch">
-      <feTurbulence type="turbulence" baseFrequency="0.02" numOctaves="2" result="turb"/>
-      <feDisplacementMap in2="turb" in="SourceGraphic" scale="8" xChannelSelector="R" yChannelSelector="G"/>
-    </filter>
-  </svg>
+  <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/main/assets/glitch-cyberpunk-title.svg" alt="CYBERPUNK DEV" width="400"/>
 </p>
 
 ---
@@ -148,15 +142,15 @@ Let’s innovate and build the future!
 
 ---
 
-<!-- Neon ASCII Art -->
+<!-- Neon ASCII Art for dr.tux -->
 <pre align="center">
 <span style="color:#ff00ea;">
-██████╗  █████╗ ██╗      █████╗ ███╗   ██╗     ██████╗██╗   ██╗
-██╔══██╗██╔══██╗██║     ██╔══██╗████╗  ██║    ██╔════╝╚██╗ ██╔╝
-██████╔╝███████║██║     ███████║██╔██╗ ██║    ██║      ╚████╔╝ 
-██╔═══╝ ██╔══██║██║     ██╔══██║██║╚██╗██║    ██║       ╚██╔╝  
-██║     ██║  ██║███████╗██║  ██║██║ ╚████║    ╚██████╗   ██║   
-╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝     ╚═════╝   ╚═╝   
+██████╗ ██████╗     ████████╗██╗   ██╗██╗  ██╗
+██╔══██╗██╔══██╗    ╚══██╔══╝██║   ██║╚██╗██╔╝
+██████╔╝██████╔╝       ██║   ██║   ██║ ╚███╔╝ 
+██╔═══╝ ██╔══██╗       ██║   ██║   ██║ ██╔██╗ 
+██║     ██║  ██║       ██║   ╚██████╔╝██╔╝ ██╗
+╚═╝     ╚═╝  ╚═╝       ╚═╝    ╚═════╝ ╚═╝  ╚═╝
 </span>
 </pre>
 
