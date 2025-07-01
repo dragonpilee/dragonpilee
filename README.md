@@ -1,14 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ea,100:00fff7&height=120&section=header&text=Alan%20Cyril%20Sunny&fontSize=40&fontAlignY=40&desc=AI%20%2F%20ML%20Architect%20%7C%20Cyberpunk%20Dev&descAlignY=60&animation=twinkling" />
+# 💫 Alan Cyril Sunny
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator;BSc+CHEMISTRY+(PHYSICS+%26+MATHEMATICS);MSc+COMPUTER+SCIENCE+(DATA+ANALYTICS);Interdisciplinary+Developer;Neon+Dreams+%7C+Glitch+Reality;Welcome+to+the+Neon+Matrix!" alt="Typing Animation" />
-</p>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="60" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator;BSc+CHEMISTRY+(PHYSICS+%26+MATHEMATICS);MSc+COMPUTER+SCIENCE+(DATA+ANALYTICS);Interdisciplinary+Developer;Neon+Dreams+%7C+Glitch+Reality" alt="Typing Animation" />
+</div>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=dragonpilee&label=Profile%20views&color=0e75b6&style=flat" alt="dragonpilee" />
 </p>
 
@@ -16,7 +14,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dragonpilee&theme=onedark&no-bg=true&no-frame=true&column=7&exclude=Issues,PullRequest" alt="GitHub Trophy" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,100:ff00ea&height=60&section=footer" />
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Debian%20%7C%20Arch%20%7C%20Fedora%20%7C%20FreeBSD-00fff7?style=for-the-badge&logo=linux&logoColor=ff00ea" />
@@ -27,18 +25,11 @@
   <img src="https://img.shields.io/badge/CUDA-Developer-ff00ea?style=for-the-badge&logo=nvidia&logoColor=00fff7" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ea,100:00fff7&height=60&section=footer" />
-
-<!-- Animated glitch SVG header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/main/assets/glitch-cyberpunk-title.svg" alt="CYBERPUNK DEV" width="400"/>
-</p>
-
 ---
 
 ## 👾 About Me
 
-> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30" /> **"Wake up, Samurai. We have code to write."**
+> **"Wake up, Samurai. We have code to write."**
 
 - 🎓 MSc Computer Science (**Data Analytics**)
 - 🧬 Interdisciplinary: **Physics, Chemistry, Math, CS**
@@ -58,38 +49,51 @@
 
 ## 🌐 Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alan-cyril-33aa8178/"><img src="https://img.shields.io/badge/LinkedIn-00fff7?style=for-the-badge&logo=linkedin&logoColor=ff00ea" /></a>
-  <a href="mailto:alan_cyril@yahoo.com"><img src="https://img.shields.io/badge/Email-alan_cyril%40yahoo.com-ff00ea?style=for-the-badge&logo=gmail&logoColor=00fff7" /></a>
-  <a href="https://alan-cyril-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00fff7?style=for-the-badge&logo=about-dot-me&logoColor=ff00ea" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff7?style=for-the-badge&logo=linkedin&logoColor=ff00ea)](https://www.linkedin.com/in/alan-cyril-33aa8178/)
+[![Email](https://img.shields.io/badge/Email-alan_cyril%40yahoo.com-ff00ea?style=for-the-badge&logo=gmail&logoColor=00fff7)](mailto:alan_cyril@yahoo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00fff7?style=for-the-badge&logo=about-dot-me&logoColor=ff00ea)](https://alan-cyril-portfolio.vercel.app/)
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cuda,react,nextjs,nodejs,tailwind,typescript,java,kotlin,opengl,vulkan,debian,arch,freebsd,fedora,raspberrypi,kalilinux,aws,azure,gcp,docker,kubernetes" />
-</p>
-
 **AI / ML / Scientific:**  
+![Python](https://img.shields.io/badge/Python-00fff7?style=for-the-badge&logo=python&logoColor=ff00ea)
+![R](https://img.shields.io/badge/R-ff00ea?style=for-the-badge&logo=r&logoColor=00fff7)
+![CUDA](https://img.shields.io/badge/CUDA-00fff7?style=for-the-badge&logo=nvidia&logoColor=ff00ea)
 Prompt Engineering | Scientific ML | Computational Chemistry
 
 **Web:**  
-React | Next.js | Node.js | Tailwind CSS | TypeScript
+![React](https://img.shields.io/badge/React-ff00ea?style=for-the-badge&logo=react&logoColor=00fff7)
+![Next.js](https://img.shields.io/badge/Next.js-00fff7?style=for-the-badge&logo=next.js&logoColor=ff00ea)
+![Node.js](https://img.shields.io/badge/Node.js-ff00ea?style=for-the-badge&logo=nodedotjs&logoColor=00fff7)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-00fff7?style=for-the-badge&logo=tailwindcss&logoColor=ff00ea)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff00ea?style=for-the-badge&logo=typescript&logoColor=00fff7)
 
 **Mobile:**  
-Java | Kotlin
+![Java](https://img.shields.io/badge/Java-00fff7?style=for-the-badge&logo=java&logoColor=ff00ea)
+![Kotlin](https://img.shields.io/badge/Kotlin-ff00ea?style=for-the-badge&logo=kotlin&logoColor=00fff7)
 
 **Game Dev:**  
-Python | OpenGL | Vulkan
+![Python](https://img.shields.io/badge/Python-ff00ea?style=for-the-badge&logo=python&logoColor=00fff7)
+![OpenGL](https://img.shields.io/badge/OpenGL-00fff7?style=for-the-badge&logo=opengl&logoColor=ff00ea)
+![Vulkan](https://img.shields.io/badge/Vulkan-ff00ea?style=for-the-badge&logo=vulkan&logoColor=00fff7)
 
 **Linux / OS / DevOps:**  
-Debian | Arch Linux | FreeBSD | Fedora | Raspberry Pi | Kali Linux  
+![Debian](https://img.shields.io/badge/Debian-ff00ea?style=for-the-badge&logo=debian&logoColor=00fff7)
+![Arch Linux](https://img.shields.io/badge/Arch-00fff7?style=for-the-badge&logo=arch-linux&logoColor=ff00ea)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-ff00ea?style=for-the-badge&logo=freebsd&logoColor=00fff7)
+![Fedora](https://img.shields.io/badge/Fedora-00fff7?style=for-the-badge&logo=fedora&logoColor=ff00ea)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-00fff7?style=for-the-badge&logo=raspberrypi&logoColor=ff00ea)
+![Kali Linux](https://img.shields.io/badge/Kali-ff00ea?style=for-the-badge&logo=kalilinux&logoColor=00fff7)
 NAS | Tails, Qubes, Parrot | Pentesting | System Configs
 
 **Cloud & Containers:**  
-AWS | Azure | Google Cloud | Docker | Kubernetes  
+![AWS](https://img.shields.io/badge/AWS-00fff7?style=for-the-badge&logo=amazon-aws&logoColor=ff00ea)
+![Azure](https://img.shields.io/badge/Azure-ff00ea?style=for-the-badge&logo=microsoftazure&logoColor=00fff7)
+![Google Cloud](https://img.shields.io/badge/GCP-00fff7?style=for-the-badge&logo=googlecloud&logoColor=ff00ea)
+![Docker](https://img.shields.io/badge/Docker-ff00ea?style=for-the-badge&logo=docker&logoColor=00fff7)
+![Kubernetes](https://img.shields.io/badge/K8s-00fff7?style=for-the-badge&logo=kubernetes&logoColor=ff00ea)
 Networking | Config | Automation
 
 ---
@@ -134,24 +138,8 @@ Networking | Config | Automation
 
 ## 🤝 Let's Collaborate!
 
-> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="30" /> **"In Night City, code is power. Let's build the future together."**
+> **"In Night City, code is power. Let's build the future together."**
 
 Open to impactful collabs at the edge of **science, tech, and AI**.  
 Let’s innovate and build the future!  
 ⭐ Star my repos if you dig the vibe — it fuels my neon!
-
----
-
-<!-- Neon ASCII Art for dr.tux -->
-<pre align="center">
-<span style="color:#ff00ea;">
-██████╗ ██████╗     ████████╗██╗   ██╗██╗  ██╗
-██╔══██╗██╔══██╗    ╚══██╔══╝██║   ██║╚██╗██╔╝
-██████╔╝██████╔╝       ██║   ██║   ██║ ╚███╔╝ 
-██╔═══╝ ██╔══██╗       ██║   ██║   ██║ ██╔██╗ 
-██║     ██║  ██║       ██║   ╚██████╔╝██╔╝ ██╗
-╚═╝     ╚═╝  ╚═╝       ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-</span>
-</pre>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,100:ff00ea&height=80&section=footer" />
