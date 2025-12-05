@@ -125,7 +125,7 @@
 ## 📈 Dynamic Highlight – Most Popular Repo
 
 <!--POPULAR_REPO-->
-Loading your most starred repo...
+⭐ 34 — [dragonpilee/cinegeek-beta](https://github.com/dragonpilee/cinegeek-beta)
 <!--POPULAR_REPO_END-->
 
 ---
