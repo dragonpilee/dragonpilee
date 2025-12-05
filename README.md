@@ -136,6 +136,14 @@ Networking | Config | Automation
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 ## 🤝 Let's Collaborate!
 
 > **"In Night City, code is power. Let's build the future together."**
