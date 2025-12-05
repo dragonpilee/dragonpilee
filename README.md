@@ -75,7 +75,6 @@
 ![Python](https://img.shields.io/badge/Python-00fff7?style=for-the-badge&logo=python&logoColor=ff00ea)
 ![R](https://img.shields.io/badge/R-ff00ea?style=for-the-badge&logo=r&logoColor=00fff7)
 ![CUDA](https://img.shields.io/badge/CUDA-00fff7?style=for-the-badge&logo=nvidia&logoColor=ff00ea)
-Prompt Engineering | Scientific ML | Computational Chemistry
 
 **Web:**  
 ![React](https://img.shields.io/badge/React-ff00ea?style=for-the-badge&logo=react&logoColor=00fff7)
@@ -100,7 +99,6 @@ Prompt Engineering | Scientific ML | Computational Chemistry
 ![Fedora](https://img.shields.io/badge/Fedora-00fff7?style=for-the-badge&logo=fedora&logoColor=ff00ea)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-00fff7?style=for-the-badge&logo=raspberrypi&logoColor=ff00ea)
 ![Kali Linux](https://img.shields.io/badge/Kali-ff00ea?style=for-the-badge&logo=kalilinux&logoColor=00fff7)
-NAS | Tails, Qubes, Parrot | Pentesting | System Configs
 
 **Cloud & Containers:**  
 ![AWS](https://img.shields.io/badge/AWS-00fff7?style=for-the-badge&logo=amazon-aws&logoColor=ff00ea)
@@ -108,7 +106,6 @@ NAS | Tails, Qubes, Parrot | Pentesting | System Configs
 ![Google Cloud](https://img.shields.io/badge/GCP-00fff7?style=for-the-badge&logo=googlecloud&logoColor=ff00ea)
 ![Docker](https://img.shields.io/badge/Docker-ff00ea?style=for-the-badge&logo=docker&logoColor=00fff7)
 ![Kubernetes](https://img.shields.io/badge/K8s-00fff7?style=for-the-badge&logo=kubernetes&logoColor=ff00ea)
-Networking | Config | Automation
 
 ---
 
