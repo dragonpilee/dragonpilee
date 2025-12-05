@@ -28,6 +28,14 @@
 
 ---
 
+## 📈 Dynamic Highlight – Most Popular Repo
+
+<!--POPULAR_REPO-->
+⭐ **34** — [dragonpilee/cinegeek-beta](https://github.com/dragonpilee/cinegeek-beta)
+<!--POPULAR_REPO_END-->
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Debian%20%7C%20Arch%20%7C%20Fedora%20%7C%20FreeBSD-00fff7?style=for-the-badge&logo=linux&logoColor=ff00ea" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-ff00ea?style=for-the-badge&logo=cloud&logoColor=00fff7" />
@@ -119,14 +127,6 @@
 - 📘 40+ repos: full-stack, AI, analytics
 - 👨‍🏫 Mentored 100s: clarity, creativity, results
 - 🎯 Future-ready AI/ML Architect
-
----
-
-## 📈 Dynamic Highlight – Most Popular Repo
-
-<!--POPULAR_REPO-->
-⭐ 34 — [dragonpilee/cinegeek-beta](https://github.com/dragonpilee/cinegeek-beta)
-<!--POPULAR_REPO_END-->
 
 ---
 
