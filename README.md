@@ -16,7 +16,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -24,7 +23,6 @@
 
 ---
 
-## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" alt="GitHub Streak" />
