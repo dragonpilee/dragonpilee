@@ -3,36 +3,48 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator;BSc+CHEMISTRY+(PHYSICS+%26+MATHEMATICS);MSc+COMPUTER+SCIENCE+(DATA+ANALYTICS);Interdisciplinary+Developer;Neon+Dreams+%7C+Glitch+Reality" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Architect;Cyberpunk+Developer;Open+Source+Advocate;Game+Dev+%7C+Hacker+%7C+Educator;BSc+CHEMISTRY+(PHYSICS+%26+MATHEMATICS);MSc+COMPUTER+SCIENCE+(DATA+ANALYTICS);Interdisciplinary+Developer;Neon+Dreams+%7C+Glitch+Reality" />
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dragonpilee&label=Profile%20views&color=0e75b6&style=flat" alt="dragonpilee" />
+  <img src="https://komarev.com/ghpvc/?username=dragonpilee&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dragonpilee&theme=onedark&no-bg=true&no-frame=true&column=7&exclude=Issues,PullRequest" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dragonpilee&theme=onedark&no-bg=true&no-frame=true&column=7&exclude=Issues,PullRequest" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" />
 </p>
 
 ---
 
-## 📈 Dynamic Highlight – Most Popular Repo
+<!-- 🔥 CYBERPUNK V4 – MOST POPULAR REPO SECTION -->
 
-<!--POPULAR_REPO-->
-⭐ **34** — [dragonpilee/cinegeek-beta](https://github.com/dragonpilee/cinegeek-beta)
-<!--POPULAR_REPO_END-->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=MOST%20POPULAR%20REPO&text2=CineGeek%20Beta%20⭐%2034%20Stars" width="900" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/dragonpilee/cinegeek-beta">
+    <img src="https://img.shields.io/badge/CineGeek%20Beta-⭐%2034%20Stars-ff00ea?style=for-the-badge&logo=github&logoColor=00fff7&labelColor=0d1117&color=ff00ea" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=00fff7&section=footer&text=Streaming%20Platform%20%7C%20Next.js%20%7C%20Cyberpunk%20UX&fontColor=ff00ea&fontSize=22&animation=fadeIn" />
+</p>
+
+<!-- END POPULAR REPO -->
 
 ---
 
