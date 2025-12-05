@@ -1,5 +1,8 @@
 name: Generate GitHub Contribution Snake
 
+permissions:
+  contents: write    # allow this workflow to push to the repo
+
 on:
   schedule:
     - cron: "0 0 * * *"   # runs once a day at 00:00 UTC
