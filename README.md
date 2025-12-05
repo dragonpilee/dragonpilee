@@ -16,13 +16,11 @@
 
 ---
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" alt="GitHub Streak" />
@@ -121,6 +119,14 @@
 - 📘 40+ repos: full-stack, AI, analytics
 - 👨‍🏫 Mentored 100s: clarity, creativity, results
 - 🎯 Future-ready AI/ML Architect
+
+---
+
+## 📈 Dynamic Highlight – Most Popular Repo
+
+<!--POPULAR_REPO-->
+Loading your most starred repo...
+<!--POPULAR_REPO_END-->
 
 ---
 
