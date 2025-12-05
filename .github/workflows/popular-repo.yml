@@ -1,0 +1,53 @@
+name: Update Most Popular Repo
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # run once a day at 00:00 UTC
+  workflow_dispatch:       # allows manual run from Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Get most starred repo
+        id: getrepo
+        run: |
+          repos=$(curl -s "https://api.github.com/users/${GITHUB_REPOSITORY_OWNER}/repos?per_page=100")
+          # Extract: stars url full_name and sort by stars
+          repo=$(echo "$repos" \
+            | jq -r '.[] | "\(.stargazers_count) \(.html_url) \(.full_name)"' \
+            | sort -nr | head -1)
+
+          stars=$(echo "$repo" | awk '{print $1}')
+          url=$(echo "$repo" | awk '{print $2}')
+          name=$(echo "$repo" | cut -d' ' -f3-)
+
+          echo "Most starred repo: $name with $stars stars"
+          echo "repo_line=⭐ $stars — [$name]($url)" >> "$GITHUB_OUTPUT"
+
+      - name: Update README
+        run: |
+          new_section="<!--POPULAR_REPO-->\n${{ steps.getrepo.outputs.repo_line }}\n<!--POPULAR_REPO_END-->"
+          awk -v repl="$new_section" '
+            /<!--POPULAR_REPO-->/ {inblk=1; print repl; next}
+            /<!--POPULAR_REPO_END-->/ {inblk=0; next}
+            !inblk {print}
+          ' README.md > README.tmp
+          mv README.tmp README.md
+
+      - name: Commit changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "chore: update most popular repo section" || echo "No changes to commit"
+          git push
