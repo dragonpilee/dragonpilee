@@ -16,6 +16,14 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Debian%20%7C%20Arch%20%7C%20Fedora%20%7C%20FreeBSD-00fff7?style=for-the-badge&logo=linux&logoColor=ff00ea" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-ff00ea?style=for-the-badge&logo=cloud&logoColor=00fff7" />
@@ -129,14 +137,6 @@ Networking | Config | Automation
 - 🧬 [Genetic Disorder Prediction (GPU)](https://github.com/dragonpilee/Genetic-Disorder-Prediction-Model-Trainer-GPU-Accelerated)
 - 🤖 [Nyx - Cyberpunk AI Chatbot](https://github.com/dragonpilee/NYX---Digital-Interface)
 - 🌌 [Star Defenders - 2D Space Shooter](https://github.com/dragonpilee/Star-Defenders)
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
 ---
 
