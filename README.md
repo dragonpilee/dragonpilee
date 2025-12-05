@@ -24,6 +24,14 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" alt="GitHub Streak" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Debian%20%7C%20Arch%20%7C%20Fedora%20%7C%20FreeBSD-00fff7?style=for-the-badge&logo=linux&logoColor=ff00ea" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-ff00ea?style=for-the-badge&logo=cloud&logoColor=00fff7" />
@@ -103,14 +111,6 @@ NAS | Tails, Qubes, Parrot | Pentesting | System Configs
 ![Docker](https://img.shields.io/badge/Docker-ff00ea?style=for-the-badge&logo=docker&logoColor=00fff7)
 ![Kubernetes](https://img.shields.io/badge/K8s-00fff7?style=for-the-badge&logo=kubernetes&logoColor=ff00ea)
 Networking | Config | Automation
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" alt="GitHub Streak" />
-</p>
 
 ---
 
