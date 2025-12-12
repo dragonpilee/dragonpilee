@@ -12,7 +12,6 @@
 
 ---
 
-## 🚀 Developer Analytics Dashboard
 
 <p align="center">
   <!-- Activity graph -->
@@ -146,7 +145,6 @@
 ---
 
 ## 🔍 Featured Repos  
-*(Links hidden — names are clickable)*
 
 - 🎥 **[CineGeek 2.0](https://github.com/dragonpilee/cinegeek)**  
   Movie & Series Streaming Platform (Next.js)
