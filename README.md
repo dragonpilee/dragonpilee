@@ -25,15 +25,10 @@
 
   <br/>
 
-  <!-- Stable Shields: Followers, Stars, Repo size (reliable show-off badges) -->
+  <!-- Stable Shields: Followers, Stars, Repo size -->
   <img src="https://img.shields.io/github/followers/dragonpilee?label=Followers&style=for-the-badge" alt="followers" />
   <img src="https://img.shields.io/github/stars/dragonpilee?label=Stars&style=for-the-badge" alt="stars" />
   <img src="https://img.shields.io/github/repo-size/dragonpilee/cinegeek?label=Repo%20Size&style=for-the-badge" alt="repo size" />
-</p>
-
-<p align="center">
-  <!-- Profile summary card (keeps extra summary visuals) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonpilee&theme=radical" alt="profile summary" />
 </p>
 
 ---
@@ -56,12 +51,12 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Debian%20%7C%20Arch%20%7C%20Fedora%20%7C%20FreeBSD-00fff7?style=for-the-badge&logo=linux&logoColor=ff00ea" alt="os badges" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-ff00ea?style=for-the-badge&logo=cloud&logoColor=00fff7" alt="cloud badges" />
-  <img src="https://img.shields.io/badge/AI%26ML-CUDA%20%7C%20Python-00fff7?style=for-the-badge&logo=ai&logoColor=ff00ea" alt="ai ml" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-ff00ea?style=for-the-badge&logo=visualstudiocode&logoColor=00fff7" alt="vscode" />
-  <img src="https://img.shields.io/badge/GameDev-Retro%20%7C%20OpenGL-00fff7?style=for-the-badge&logo=opengl&logoColor=ff00ea" alt="gamedev" />
-  <img src="https://img.shields.io/badge/CUDA-Developer-ff00ea?style=for-the-badge&logo=nvidia&logoColor=00fff7" alt="cuda" />
+  <img src="https://img.shields.io/badge/OS-Debian%20%7C%20Arch%20%7C%20Fedora%20%7C%20FreeBSD-00fff7?style=for-the-badge&logo=linux&logoColor=ff00ea" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-ff00ea?style=for-the-badge&logo=cloud&logoColor=00fff7" />
+  <img src="https://img.shields.io/badge/AI%26ML-CUDA%20%7C%20Python-00fff7?style=for-the-badge&logo=ai&logoColor=ff00ea" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-ff00ea?style=for-the-badge&logo=visualstudiocode&logoColor=00fff7" />
+  <img src="https://img.shields.io/badge/GameDev-Retro%20%7C%20OpenGL-00fff7?style=for-the-badge&logo=opengl&logoColor=ff00ea" />
+  <img src="https://img.shields.io/badge/CUDA-Developer-ff00ea?style=for-the-badge&logo=nvidia&logoColor=00fff7" />
 </p>
 
 ---
