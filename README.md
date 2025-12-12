@@ -10,20 +10,25 @@
   <img src="https://komarev.com/ghpvc/?username=dragonpilee&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dragonpilee&theme=onedark&no-bg=true&no-frame=true&column=7&exclude=Issues,PullRequest" />
+  <!-- FIXED: GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=dragonpilee&theme=radical&no-bg=true&no-frame=true&column=7" />
 </p>
 
 ---
 
 <p align="center">
+  <!-- WORKING Snake (unchanged) -->
   <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" />
+  <!-- FIXED: GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=dragonpilee&theme=radical&hide_border=true&background=0d1117&ring=ff00ea&fire=00fff7&currStreakLabel=ff00ea" />
 </p>
 
 ---
@@ -53,19 +58,19 @@
 
 > **"Wake up, Samurai. We have code to write."**
 
-- 🎓 MSc Computer Science (**Data Analytics**)
-- 🧬 Interdisciplinary: **Physics, Chemistry, Math, CS**
-- 👨‍🏫 11+ yrs simplifying STEM as a **tutor**
-- 💻 Dev: `Java`, `Python`, `Kotlin`, `React`, `Next.js`
-- 🤖 Building **AI/ML** for science & tech
-- ⚡ GPU-accelerated AI for healthcare/science
-- 🦾 Created **Nyx**: cyberpunk AI chatbot (Google Gemini)
-- 🎮 Indie game dev: retro x modern
-- 🖥️ Linux since 2008: **Debian, Arch, FreeBSD, Pi**
-- 🔐 Pentesting: **Kali, Parrot, Qubes, Tails**
-- ☁️ Cloud: **AWS, Azure, GCP, Docker, K8s**
-- 🌐 Networks, configs, prompt engineering
-- 📚 Lifelong learner, global educator
+- 🎓 MSc Computer Science (**Data Analytics**)  
+- 🧬 Interdisciplinary: **Physics, Chemistry, Math, CS**  
+- 👨‍🏫 11+ yrs simplifying STEM as a **tutor**  
+- 💻 Dev: `Java`, `Python`, `Kotlin`, `React`, `Next.js`  
+- 🤖 Building **AI/ML** for science & tech  
+- ⚡ GPU-accelerated AI for healthcare/science  
+- 🦾 Created **Nyx**: cyberpunk AI chatbot (Google Gemini)  
+- 🎮 Indie game dev: retro x modern  
+- 🖥️ Linux since 2008: **Debian, Arch, FreeBSD, Pi**  
+- 🔐 Pentesting: **Kali, Parrot, Qubes, Tails**  
+- ☁️ Cloud: **AWS, Azure, GCP, Docker, K8s**  
+- 🌐 Networks, configs, prompt engineering  
+- 📚 Lifelong learner, global educator  
 
 ---
 
@@ -119,17 +124,17 @@
 
 ## 🏆 Accomplishments
 
-- 🎥 **CineGeek 2.0 – Movie/Series Streaming** (Next.js + Docker)
-- 📺 **StreamWave.TV – IPTV Player** (Next.js + HLS.js + PWA)
-- 🍃 **Ozon – Live AQI & Weather Analyzer** (React + FastAPI + Cyclops AI)
-- 🧠 **Zentro 2.0 – Offline AI Content Platform** (CUDA + FastAPI + Streamlit)
-- 🧠 **Epileptic Seizure Detection** (Python)
-- ⚙️ **Hybrid CPU-GPU Image Classification** (CUDA + Python)
-- 🧬 **Genetic Disorder Prediction** (GPU)
-- 🤖 **Nyx – Cyberpunk AI Chatbot** (Gemini API)
-- 🎮 **Star Defenders – 2D Shooter** (Python + OpenGL)
-- 📘 40+ repos across AI, full-stack, GPU computing
-- 👨‍🏫 Mentored 100s with clarity and creativity
+- 🎥 **CineGeek 2.0 – Movie/Series Streaming**  
+- 📺 **StreamWave.TV – IPTV Player**  
+- 🍃 **Ozon – Live AQI & Weather Analyzer**  
+- 🧠 **Zentro 2.0 – Offline AI Content Platform**  
+- 🧠 Epileptic Seizure Detection  
+- ⚙️ Hybrid CPU–GPU Image Classification  
+- 🧬 Genetic Disorder Prediction  
+- 🤖 Nyx – Cyberpunk AI Chatbot  
+- 🎮 Star Defenders – 2D Shooter  
+- 📘 40+ repos in AI, GPU, full-stack  
+- 👨‍🏫 Mentored 100s globally  
 
 ---
 
@@ -147,11 +152,20 @@
 - 🧠 **Zentro 2.0 – Intelligent Content Platform**  
   https://github.com/dragonpilee/zentro
 
-- 🧠 [Epileptic Seizure Detection](https://github.com/dragonpilee/Epileptic-Seizure-Detection-System)  
-- ⚙️ [Hybrid GPU Image Classification](https://github.com/dragonpilee/Hybrid-GPU-Image-Classification-Pipeline)  
-- 🧬 [Genetic Disorder Prediction (GPU)](https://github.com/dragonpilee/Genetic-Disorder-Prediction-Model-Trainer-GPU-Accelerated)  
-- 🤖 [Nyx – Cyberpunk AI Chatbot](https://github.com/dragonpilee/NYX---Digital-Interface)  
-- 🌌 [Star Defenders – 2D Space Shooter](https://github.com/dragonpilee/Star-Defenders)
+- 🧠 Epileptic Seizure Detection  
+  https://github.com/dragonpilee/Epileptic-Seizure-Detection-System
+
+- ⚙️ Hybrid GPU Image Classification  
+  https://github.com/dragonpilee/Hybrid-GPU-Image-Classification-Pipeline
+
+- 🧬 Genetic Disorder Prediction  
+  https://github.com/dragonpilee/Genetic-Disorder-Prediction-Model-Trainer-GPU-Accelerated
+
+- 🤖 Nyx – Cyberpunk AI Chatbot  
+  https://github.com/dragonpilee/NYX---Digital-Interface
+
+- 🌌 Star Defenders – 2D Space Shooter  
+  https://github.com/dragonpilee/Star-Defenders
 
 ---
 
@@ -159,5 +173,5 @@
 
 > **"In Night City, code is power. Let's build the future together."**
 
-Open to cutting-edge collabs in **AI, GPU computing, science-tech innovation**, and **cyberpunk-themed systems**.  
-⭐ **Star my repos** — every star powers the neon!
+Open to collabs in **AI, GPU computing, cyberpunk tech, scientific computing**, and **next-gen full-stack systems**.  
+⭐ Stars fuel the neon — keep the grid glowing!
