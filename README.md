@@ -12,7 +12,6 @@
 
 ---
 
-
 <p align="center">
   <!-- Activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragonpilee&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
@@ -21,13 +20,6 @@
 <p align="center">
   <!-- Profile summary card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonpilee&theme=radical" alt="profile details" />
-
-  <br/>
-
-  <!-- Stable Shields -->
-  <img src="https://img.shields.io/github/followers/dragonpilee?label=Followers&style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/github/stars/dragonpilee?label=Stars&style=for-the-badge" alt="stars" />
-  <img src="https://img.shields.io/github/repo-size/dragonpilee/cinegeek?label=Repo%20Size&style=for-the-badge" alt="repo size" />
 </p>
 
 ---
@@ -147,19 +139,10 @@
 ## 🔍 Featured Repos  
 
 - 🎥 **[CineGeek 2.0](https://github.com/dragonpilee/cinegeek)**  
-  Movie & Series Streaming Platform (Next.js)
-
 - 📺 **[StreamWave.TV](https://github.com/dragonpilee/StreamWave)**  
-  IPTV Player with Glass UI
-
 - 🍃 **[Ozon](https://github.com/dragonpilee/ozon)**  
-  Live AQI & Weather Analyzer (React + FastAPI)
-
 - 🧠 **[Zentro 2.0](https://github.com/dragonpilee/zentro)**  
-  Offline AI Content Intelligence (VLM + CUDA)
-
 - 🧠 **[Epileptic Seizure Detection](https://github.com/dragonpilee/Epileptic-Seizure-Detection-System)**  
-  ML-based Epilepsy Detection using EEG signals
 
 ---
 
