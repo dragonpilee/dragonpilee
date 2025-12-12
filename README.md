@@ -12,19 +12,20 @@
 
 ---
 
+## 🚀 Developer Analytics Dashboard
 
 <p align="center">
-  <!-- Activity graph (heatmap) -->
+  <!-- Activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragonpilee&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 <p align="center">
-  <!-- Stable replacement: Profile summary card -->
+  <!-- Profile summary card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonpilee&theme=radical" alt="profile details" />
 
   <br/>
 
-  <!-- Stable Shields: Followers, Stars, Repo size -->
+  <!-- Stable Shields -->
   <img src="https://img.shields.io/github/followers/dragonpilee?label=Followers&style=for-the-badge" alt="followers" />
   <img src="https://img.shields.io/github/stars/dragonpilee?label=Stars&style=for-the-badge" alt="stars" />
   <img src="https://img.shields.io/github/repo-size/dragonpilee/cinegeek?label=Repo%20Size&style=for-the-badge" alt="repo size" />
@@ -33,7 +34,7 @@
 ---
 
 <p align="center">
-  <!-- === YOUR ORIGINAL SNAKE (UNCHANGED) === -->
+  <!-- ORIGINAL SNAKE - UNTOUCHED -->
   <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
@@ -144,22 +145,23 @@
 
 ---
 
-## 🔍 Featured Repos
+## 🔍 Featured Repos  
+*(Links hidden — names are clickable)*
 
-- 🎥 CineGeek 2.0  
-  https://github.com/dragonpilee/cinegeek
+- 🎥 **[CineGeek 2.0](https://github.com/dragonpilee/cinegeek)**  
+  Movie & Series Streaming Platform (Next.js)
 
-- 📺 StreamWave.TV  
-  https://github.com/dragonpilee/StreamWave
+- 📺 **[StreamWave.TV](https://github.com/dragonpilee/StreamWave)**  
+  IPTV Player with Glass UI
 
-- 🍃 Ozon  
-  https://github.com/dragonpilee/ozon
+- 🍃 **[Ozon](https://github.com/dragonpilee/ozon)**  
+  Live AQI & Weather Analyzer (React + FastAPI)
 
-- 🧠 Zentro 2.0  
-  https://github.com/dragonpilee/zentro
+- 🧠 **[Zentro 2.0](https://github.com/dragonpilee/zentro)**  
+  Offline AI Content Intelligence (VLM + CUDA)
 
-- 🧠 Epileptic Seizure  
-  https://github.com/dragonpilee/Epileptic-Seizure-Detection-System
+- 🧠 **[Epileptic Seizure Detection](https://github.com/dragonpilee/Epileptic-Seizure-Detection-System)**  
+  ML-based Epilepsy Detection using EEG signals
 
 ---
 
