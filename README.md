@@ -7,7 +7,7 @@
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dragonpilee&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dragonpilee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -15,28 +15,32 @@
 ## 🚀 Developer Analytics Dashboard
 
 <p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragonpilee&theme=react-dark&area=true&hide_border=true" />
+  <!-- Activity graph (heatmap) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragonpilee&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dragonpilee&show_icons=true&theme=radical&hide_border=true" />
+  <!-- Stable replacement: Profile summary card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonpilee&theme=radical" alt="profile details" />
 
-  <!-- Top Languages -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonpilee&layout=compact&theme=radical&hide_border=true" />
+  <br/>
+
+  <!-- Stable Shields: Followers, Stars, Repo size (reliable show-off badges) -->
+  <img src="https://img.shields.io/github/followers/dragonpilee?label=Followers&style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/github/stars/dragonpilee?label=Stars&style=for-the-badge" alt="stars" />
+  <img src="https://img.shields.io/github/repo-size/dragonpilee/cinegeek?label=Repo%20Size&style=for-the-badge" alt="repo size" />
 </p>
 
 <p align="center">
-  <!-- GitHub Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonpilee&theme=radical" />
+  <!-- Profile summary card (keeps extra summary visuals) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonpilee&theme=radical" alt="profile summary" />
 </p>
 
 ---
 
 <p align="center">
-  <!-- DO NOT TOUCH — ORIGINAL WORKING SNAKE -->
-  <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/output/github-contribution-grid-snake-dark.svg" />
+  <!-- === YOUR ORIGINAL SNAKE (UNCHANGED) === -->
+  <img src="https://raw.githubusercontent.com/dragonpilee/dragonpilee/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
 ---
@@ -45,19 +49,19 @@
 
 <p align="center">
   <a href="https://github.com/dragonpilee/cinegeek-beta">
-    <img src="https://img.shields.io/badge/CineGeek%20Beta-34★-00fff7?style=for-the-badge&logo=github&logoColor=ff00ea&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/CineGeek%20Beta-34★-00fff7?style=for-the-badge&logo=github&logoColor=ff00ea&labelColor=0d1117" alt="cinegeek badge" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Debian%20%7C%20Arch%20%7C%20Fedora%20%7C%20FreeBSD-00fff7?style=for-the-badge&logo=linux&logoColor=ff00ea" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-ff00ea?style=for-the-badge&logo=cloud&logoColor=00fff7" />
-  <img src="https://img.shields.io/badge/AI%26ML-CUDA%20%7C%20Python-00fff7?style=for-the-badge&logo=ai&logoColor=ff00ea" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-ff00ea?style=for-the-badge&logo=visualstudiocode&logoColor=00fff7" />
-  <img src="https://img.shields.io/badge/GameDev-Retro%20%7C%20OpenGL-00fff7?style=for-the-badge&logo=opengl&logoColor=ff00ea" />
-  <img src="https://img.shields.io/badge/CUDA-Developer-ff00ea?style=for-the-badge&logo=nvidia&logoColor=00fff7" />
+  <img src="https://img.shields.io/badge/OS-Debian%20%7C%20Arch%20%7C%20Fedora%20%7C%20FreeBSD-00fff7?style=for-the-badge&logo=linux&logoColor=ff00ea" alt="os badges" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-ff00ea?style=for-the-badge&logo=cloud&logoColor=00fff7" alt="cloud badges" />
+  <img src="https://img.shields.io/badge/AI%26ML-CUDA%20%7C%20Python-00fff7?style=for-the-badge&logo=ai&logoColor=ff00ea" alt="ai ml" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-ff00ea?style=for-the-badge&logo=visualstudiocode&logoColor=00fff7" alt="vscode" />
+  <img src="https://img.shields.io/badge/GameDev-Retro%20%7C%20OpenGL-00fff7?style=for-the-badge&logo=opengl&logoColor=ff00ea" alt="gamedev" />
+  <img src="https://img.shields.io/badge/CUDA-Developer-ff00ea?style=for-the-badge&logo=nvidia&logoColor=00fff7" alt="cuda" />
 </p>
 
 ---
@@ -117,8 +121,8 @@
 ![Debian](https://img.shields.io/badge/Debian-ff00ea?style=for-the-badge&logo=debian&logoColor=00fff7)
 ![Arch](https://img.shields.io/badge/Arch-00fff7?style=for-the-badge&logo=arch-linux&logoColor=ff00ea)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-ff00ea?style=for-the-badge&logo=freebsd&logoColor=00fff7)
-![Fedora](https://img.shields.io/badge/Fedora-00fff7?style=for-the-badge&logo=fedora&logoColor=ff00ea)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-00fff7?style=for-the-badge&logo=raspberrypi&logoColor=ff00ea)
+![Fedora](https://img.shields.io/badge/Fedora-00fff7?style=for-the-badge&logo=fedora&logoColor=00fff7)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-00fff7?style=for-the-badge&logo=raspberrypi&logoColor=00fff7)
 ![Kali Linux](https://img.shields.io/badge/Kali-ff00ea?style=for-the-badge&logo=kalilinux&logoColor=00fff7)
 
 ### **Cloud & Containers**
