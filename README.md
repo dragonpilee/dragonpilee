@@ -12,7 +12,6 @@
 
 ---
 
-## 🚀 Developer Analytics Dashboard
 
 <p align="center">
   <!-- Activity graph (heatmap) -->
