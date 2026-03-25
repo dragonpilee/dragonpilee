@@ -127,7 +127,7 @@
   </p>
   <p><i>"In Night City, code is power. Follow me to engineer the future together."</i></p>
   <p>⭐ <b>Star my projects</b> to fuel the evolution | 👣 <b>Follow</b> for system updates.</p>
-  <img src="https://komarev.com/ghpvc/?username=dragonpilee&label=SYSTEM+ACCESSES&color=00fff7&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=dragonpilee&label=SYSTEM+ACCESSES&color=ff0000&style=flat-square" />
 </div>
 
 <!-- SEO Keywords for MAANG: Artificial Intelligence Architect, Full-Stack Systems Engineer, CUDA Developer, Distributed Systems, Next.js, LLM, RAG, Docker, Kubernetes, Cyberpunk UI, High-Performance Computing -->
