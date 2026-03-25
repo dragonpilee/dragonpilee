@@ -70,7 +70,6 @@
       <p>Intelligent Responsive Interface System. Immersive AI voice assistant featuring a high-fidelity CRT Terminal with local LLM privacy.</p>
       <p>
         <a href="https://irisai-delta.vercel.app/"><b>[LIVE DEMO]</b></a> 
-        <a href="https://github.com/dragonpilee/I.R.I.S"><b>[SOURCE]</b></a>
       </p>
     </td>
     <td width="50%">
