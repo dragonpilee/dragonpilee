@@ -54,30 +54,30 @@
       <p>Premium, containerized OTT platform powered by Next.js & TMDb API. Featuring zero local dependencies and a sleek, responsive UI.</p>
       <p>
         <a href="https://cinegeek-beta.vercel.app/"><b>[LIVE DEMO]</b></a> 
-        <a href="https://github.com/dragonpilee/dragonpilee"><b>[SOURCE]</b></a>
       </p>
     </td>
     <td width="50%">
       <h4>🌊 StreamWave.TV</h4>
       <p>Minimalist IPTV player with Glassmorphism UI, HLS.js integration, and full PWA support for a native-like experience.</p>
       <p>
-        <a href="https://streamwave-tv.vercel.app/"><b>[LIVE DEMO]</b></a>
+        <a href="https://streamwave-tv.netlify.app/"><b>[LIVE DEMO]</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>🤖 NYX Interface</h4>
-      <p>Cyberpunk-themed AI chatbot utilizing Google Gemini API. Designed for intuitive human-machine interaction with a glitch-aesthetic UI.</p>
+      <h4>🔮 I.R.I.S Terminal</h4>
+      <p>Intelligent Responsive Interface System. Immersive AI voice assistant featuring a high-fidelity CRT Terminal with local LLM privacy.</p>
       <p>
-        <a href="https://github.com/dragonpilee/NYX---Digital-Interface"><b>[SOURCE]</b></a>
+        <a href="https://irisai-delta.vercel.app/"><b>[LIVE DEMO]</b></a> 
+        <a href="https://github.com/dragonpilee/I.R.I.S"><b>[SOURCE]</b></a>
       </p>
     </td>
     <td width="50%">
-      <h4>🧠 Epileptic Detection</h4>
-      <p>Machine Learning system for seizure detection with high accuracy, bridging the gap between healthcare and data science.</p>
+      <h4>⚡ GRNT CODE</h4>
+      <p>GPU-Ready Resilient Neural Terminal. High-performance, Docker-only CLI coding agent optimized for local GPU execution via Ollama.</p>
       <p>
-        <a href="https://github.com/dragonpilee/Epileptic-Seizure-Detection-System"><b>[SOURCE]</b></a>
+        <a href="https://github.com/dragonpilee/GRNT-CODE"><b>[SOURCE]</b></a>
       </p>
     </td>
   </tr>
