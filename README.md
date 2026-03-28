@@ -102,8 +102,12 @@
 ## 📈 SYSTEM ANALYTICS & THROUGHPUT
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dragonpilee&show_icons=true&theme=radical&hide_border=true&icon_color=00fff7&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonpilee&layout=compact&theme=radical&hide_border=true&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=dragonpilee&show_icons=true&theme=radical&hide_border=true&icon_color=00fff7&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=dragonpilee&layout=compact&theme=radical&hide_border=true&title_color=ff00ea&text_color=00fff7&bg_color=0d1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragonpilee&theme=radical&bg_color=0d1117&color=00fff7&line=ff00ea&point=00fff7&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
