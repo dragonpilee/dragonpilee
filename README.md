@@ -102,16 +102,16 @@
 ## 📈 ENGINEERING IMPACT & METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=dragonpilee&show_icons=true&theme=buefy&hide_border=true&icon_color=0056b3&title_color=1e293b&text_color=0056b3&bg_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=dragonpilee&layout=compact&theme=buefy&hide_border=true&title_color=1e293b&text_color=0056b3&bg_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api?username=dragonpilee&show_icons=true&theme=dark&hide_border=true&icon_color=0056b3&title_color=ffffff&text_color=0056b3&bg_color=000000" width="48%" />
+  <img src="https://github-readme-stats-one-zeta.vercel.app/api/top-langs/?username=dragonpilee&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=0056b3&bg_color=000000" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragonpilee&theme=github-light&bg_color=ffffff&color=0056b3&line=1e293b&point=0056b3&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dragonpilee&theme=github-dark&bg_color=000000&color=0056b3&line=ffffff&point=0056b3&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dragonpilee&theme=github-light&hide_border=true&stroke=0056b3&background=ffffff&ring=1e293b&fire=1e293b&currStreakNum=0056b3" alt="Engineering Contributions" />
+  <img src="https://streak-stats.demolab.com?user=dragonpilee&theme=dark&hide_border=true&stroke=0056b3&background=000000&ring=ffffff&fire=ffffff&currStreakNum=0056b3" alt="Engineering Contributions" />
 </p>
 
 ---
