@@ -1,5 +1,5 @@
 # <p align="center">⚛️ ALAN CYRIL SUNNY</p>
-<p align="center"><b>PRINCIPAL ARCHITECT | SYSTEMS ENGINEER | STRATEGIC TECH LEADER</b></p>
+<p align="center"><b>AI DEVELOPER | FULL-STACK ENGINEER | ML ENTHUSIAST</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0056b3&center=true&vCenter=true&width=900&lines=ENGINEERING+INTELLIGENT+SYSTEMS;HYBRID+GPU-CPU+INFRASTRUCTURE;DETERMINISTIC+AI+MODELS;SCALABLE+DISTRIBUTED+ECOSYSTEMS;OPERATIONAL+EXCELLENCE" alt="Typing Animation" />
@@ -13,12 +13,12 @@
     <i>"Where Computational Science Meets High-Performance Software Engineering."</i>
   </p>
   <p align="center">
-    Senior Systems Engineer with <b>11+ years of STEM expertise</b>. Specialized in <b>Performance-Critical AI</b>, <b>Distributed Orchestration</b>, and <b>Privacy-First Engineering</b>. Focused on delivering deterministic outcomes in complex technical landscapes.
+    M.Sc Computer Science (Mahatma Gandhi University) with a background in STEM education. Passionate about <b>AI Engineering</b>, <b>Local LLM Orchestration</b>, and <b>Privacy-First Computing</b>. Actively building towards a career in applied AI and machine learning.
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/EXPERT-AI%2FML%20Architecture-0056b3?style=for-the-badge&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/EXPERT-Full--Stack%20Systems-1e293b?style=for-the-badge&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/IMPACT-40+%20Repos-ffffff?style=for-the-badge&logoColor=1e293b" />
+    <img src="https://img.shields.io/badge/FOCUS-AI%2FML%20Engineering-0056b3?style=for-the-badge&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/FOCUS-Full--Stack%20Development-1e293b?style=for-the-badge&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/IMPACT-50+%20Repos-ffffff?style=for-the-badge&logoColor=1e293b" />
   </p>
 </div>
 
@@ -129,9 +129,7 @@
       <img src="https://img.shields.io/badge/Portfolio-0056b3?style=for-the-badge&logo=about-dot-me&logoColor=ffffff" />
     </a>
   </p>
-  <p><i>"Engineering efficient solutions to complex problems through architectural excellence."</i></p>
+  <p><i>"Building intelligent systems one commit at a time."</i></p>
   <p>⭐ <b>Star my projects</b> | 👣 <b>Follow</b> for engineering updates.</p>
   <img src="https://komarev.com/ghpvc/?username=dragonpilee&label=PROFILE+VIEWS&color=0056b3&style=flat-square" />
 </div>
-
-<!-- SEO Keywords for MAANG: Artificial Intelligence Architect, Full-Stack Systems Engineer, CUDA Developer, Distributed Systems, Next.js, LLM, RAG, Docker, Kubernetes, Corporate Branding, High-Performance Computing -->
