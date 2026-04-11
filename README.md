@@ -13,7 +13,7 @@
     <i>"Where Computational Science Meets High-Performance Software Engineering."</i>
   </p>
   <p align="center">
-    M.Sc Computer Science (Mahatma Gandhi University) with a background in STEM education. Passionate about <b>AI Engineering</b>, <b>Local LLM Orchestration</b>, and <b>Privacy-First Computing</b>. Actively building towards a career in applied AI and machine learning.
+    M.Sc Computer Science (Mahatma Gandhi University) with a background in STEM. Passionate about <b>AI Engineering</b>, <b>Local LLM Orchestration</b>, and <b>Privacy-First Computing</b>. Actively building towards a career in applied AI and machine learning.
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/FOCUS-AI%2FML%20Engineering-0056b3?style=for-the-badge&logoColor=ffffff" />
